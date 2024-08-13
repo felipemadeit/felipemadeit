@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm @felipemadeit
 
 - 👀 I’m interested in backend and full-stack development.
-- 🌱 I’m currently learning JavaScript and Tailwind CSS.
-- 💞️ I’m looking to collaborate on Python, Java, HTML, CSS, Django, and MySQL projects.
+- 🌱 I’m currently learning Spring and C#.
+- 💞️ I’m looking to collaborate on Python, Java, C# HTML, CSS, Django, Spring and MySQL projects.
 - 📫 How to reach me: felipemadeit@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love diving into new technologies and always strive to expand my skill set.
