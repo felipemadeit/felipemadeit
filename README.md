@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @felipemadeit
 
-- 👀 I’m interested in backend and full-stack development.
-- 🌱 I’m currently learning Spring and C#.
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning Spring and React.
 - 💞️ I’m looking to collaborate on Python, Java, C# HTML, CSS, Django, Spring and MySQL projects.
 - 📫 How to reach me: felipemadeit@gmail.com
 - 😄 Pronouns: He/Him
